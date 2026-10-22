@@ -1,0 +1,6 @@
+<!doctype html>
+<html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>What stays — a story about lifestyle costs</title>
+<style>
+@font-face{font-family:Story;src:url(lib/DejaVuSans.ttf)}@font-face{font-family:Story;src:url(lib/DejaVuSans-Bold.ttf);font-weight:700}
+*{box-sizing:border-box}html,body{margin:0;width:100%;height:100%;overflow:hidden;background:#101d2a;font-family:Story,sans-serif}#film{position:relative;width:100%;height:100%;overflow:hidden;background:#dce2df}canvas{position:absolute;inset:0;width:100%;height:100%}#overlay{pointer-events:none}#play{position:absolute;z-index:5;bottom:3%;left:50%;transform:translateX(-50%);border:1px solid #ffffff60;border-radius:30px;background:#132532dc;color:white;padding:12px 22px;font:14px Story;cursor:pointer}body.render #play{display:none}
+</style></head><body><div id="film"><canvas id="world"></canvas><canvas id="overlay"></canvas><button id="play">Play with narration</button></div><audio id="voice" src="narration.mp3" preload="auto"></audio><audio id="sfx" src="sfx.wav" preload="auto"></audio><script type="module" src="film.js"></script></body></html>

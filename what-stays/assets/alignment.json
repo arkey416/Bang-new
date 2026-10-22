@@ -1,0 +1,357 @@
+[
+  {
+    "word": "<sil>",
+    "start": 0.0,
+    "end": 0.53
+  },
+  {
+    "word": "bigger",
+    "start": 0.53,
+    "end": 0.92
+  },
+  {
+    "word": "paycheck",
+    "start": 0.92,
+    "end": 1.56
+  },
+  {
+    "word": "<sil>",
+    "start": 1.56,
+    "end": 2.26
+  },
+  {
+    "word": "barely",
+    "start": 2.26,
+    "end": 2.76
+  },
+  {
+    "word": "more",
+    "start": 2.76,
+    "end": 3.08
+  },
+  {
+    "word": "left",
+    "start": 3.08,
+    "end": 3.39
+  },
+  {
+    "word": "each",
+    "start": 3.39,
+    "end": 3.61
+  },
+  {
+    "word": "month",
+    "start": 3.61,
+    "end": 4.04
+  },
+  {
+    "word": "<sil>",
+    "start": 4.04,
+    "end": 5.21
+  },
+  {
+    "word": "imagine",
+    "start": 5.21,
+    "end": 5.7
+  },
+  {
+    "word": "getting(2)",
+    "start": 5.7,
+    "end": 5.97
+  },
+  {
+    "word": "a",
+    "start": 5.97,
+    "end": 6.02
+  },
+  {
+    "word": "raise",
+    "start": 6.02,
+    "end": 6.63
+  },
+  {
+    "word": "<sil>",
+    "start": 6.63,
+    "end": 6.86
+  },
+  {
+    "word": "then",
+    "start": 6.86,
+    "end": 7.18
+  },
+  {
+    "word": "choosing",
+    "start": 7.18,
+    "end": 7.58
+  },
+  {
+    "word": "a",
+    "start": 7.58,
+    "end": 7.65
+  },
+  {
+    "word": "pricier",
+    "start": 7.65,
+    "end": 8.17
+  },
+  {
+    "word": "apartment",
+    "start": 8.17,
+    "end": 8.76
+  },
+  {
+    "word": "<sil>",
+    "start": 8.76,
+    "end": 9.26
+  },
+  {
+    "word": "that",
+    "start": 9.26,
+    "end": 9.58
+  },
+  {
+    "word": "recurring",
+    "start": 9.58,
+    "end": 10.15
+  },
+  {
+    "word": "cost(2)",
+    "start": 10.15,
+    "end": 10.78
+  },
+  {
+    "word": "can",
+    "start": 10.78,
+    "end": 11.01
+  },
+  {
+    "word": "absorb",
+    "start": 11.01,
+    "end": 11.51
+  },
+  {
+    "word": "the(2)",
+    "start": 11.51,
+    "end": 11.66
+  },
+  {
+    "word": "extra",
+    "start": 11.66,
+    "end": 11.97
+  },
+  {
+    "word": "income",
+    "start": 11.97,
+    "end": 12.46
+  },
+  {
+    "word": "<sil>",
+    "start": 12.46,
+    "end": 13.17
+  },
+  {
+    "word": "some",
+    "start": 13.17,
+    "end": 13.46
+  },
+  {
+    "word": "increases(2)",
+    "start": 13.46,
+    "end": 14.04
+  },
+  {
+    "word": "meet",
+    "start": 14.04,
+    "end": 14.27
+  },
+  {
+    "word": "genuine(2)",
+    "start": 14.27,
+    "end": 14.81
+  },
+  {
+    "word": "needs",
+    "start": 14.81,
+    "end": 15.53
+  },
+  {
+    "word": "like",
+    "start": 15.53,
+    "end": 15.78
+  },
+  {
+    "word": "higher",
+    "start": 15.78,
+    "end": 16.12
+  },
+  {
+    "word": "childcare",
+    "start": 16.12,
+    "end": 16.64
+  },
+  {
+    "word": "costs(2)",
+    "start": 16.64,
+    "end": 17.17
+  },
+  {
+    "word": "<sil>",
+    "start": 17.17,
+    "end": 17.61
+  },
+  {
+    "word": "others",
+    "start": 17.61,
+    "end": 18.04
+  },
+  {
+    "word": "are",
+    "start": 18.04,
+    "end": 18.25
+  },
+  {
+    "word": "optional",
+    "start": 18.25,
+    "end": 18.73
+  },
+  {
+    "word": "upgrades",
+    "start": 18.73,
+    "end": 19.26
+  },
+  {
+    "word": "<sil>",
+    "start": 19.26,
+    "end": 20.09
+  },
+  {
+    "word": "a",
+    "start": 20.09,
+    "end": 20.14
+  },
+  {
+    "word": "raise",
+    "start": 20.14,
+    "end": 20.52
+  },
+  {
+    "word": "still",
+    "start": 20.52,
+    "end": 20.89
+  },
+  {
+    "word": "helps",
+    "start": 20.89,
+    "end": 21.41
+  },
+  {
+    "word": "<sil>",
+    "start": 21.41,
+    "end": 21.78
+  },
+  {
+    "word": "but",
+    "start": 21.78,
+    "end": 21.91
+  },
+  {
+    "word": "track",
+    "start": 21.91,
+    "end": 22.27
+  },
+  {
+    "word": "income",
+    "start": 22.27,
+    "end": 22.86
+  },
+  {
+    "word": "and(2)",
+    "start": 22.86,
+    "end": 23.01
+  },
+  {
+    "word": "expenses(2)",
+    "start": 23.01,
+    "end": 23.65
+  },
+  {
+    "word": "together",
+    "start": 23.65,
+    "end": 24.22
+  },
+  {
+    "word": "to(3)",
+    "start": 24.22,
+    "end": 24.34
+  },
+  {
+    "word": "see",
+    "start": 24.34,
+    "end": 24.53
+  },
+  {
+    "word": "what's",
+    "start": 24.53,
+    "end": 24.77
+  },
+  {
+    "word": "left",
+    "start": 24.77,
+    "end": 25.14
+  },
+  {
+    "word": "<sil>",
+    "start": 25.14,
+    "end": 25.98
+  },
+  {
+    "word": "what",
+    "start": 25.98,
+    "end": 26.26
+  },
+  {
+    "word": "makes",
+    "start": 26.26,
+    "end": 26.48
+  },
+  {
+    "word": "a",
+    "start": 26.48,
+    "end": 26.52
+  },
+  {
+    "word": "lifestyle",
+    "start": 26.52,
+    "end": 27.11
+  },
+  {
+    "word": "upgrade",
+    "start": 27.11,
+    "end": 27.53
+  },
+  {
+    "word": "worth",
+    "start": 27.53,
+    "end": 27.83
+  },
+  {
+    "word": "its",
+    "start": 27.83,
+    "end": 27.96
+  },
+  {
+    "word": "monthly",
+    "start": 27.96,
+    "end": 28.27
+  },
+  {
+    "word": "cost(2)",
+    "start": 28.27,
+    "end": 28.84
+  },
+  {
+    "word": "</s>",
+    "start": 28.83,
+    "end": 28.84
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "duration_seconds": 30,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "aspect_ratio": "9:16",
+  "fps": 30,
+  "frames": 900,
+  "video_codec": "H.264",
+  "pixel_format": "yuv420p",
+  "color_space": "BT.709 limited range",
+  "audio_codec": "AAC",
+  "audio_sample_rate": 48000,
+  "audio_channels": 2,
+  "original_narration_sha256": "89b017b99fbd304e633c3fe0705faae624a6c7a443970a397b0a65bdee471c5e",
+  "narration_correlation": 0.9998324434722157,
+  "narration_alignment_offset_samples": 0,
+  "caption_cues": 15,
+  "exact_caption_text_verified": true,
+  "music_tracks": 0,
+  "character_mouth_geometry": false,
+  "shots": 8,
+  "validation": "All 900 frames and audio decoded without errors; eight representative scenes visually inspected.",
+  "integrated_loudness_lufs": -16.0,
+  "true_peak_dbfs": -3.2
+}
